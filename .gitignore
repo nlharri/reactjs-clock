@@ -1,5 +1,7 @@
 git-add.sh
 git-push.sh
+npm-start.sh
+npm-build.sh
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
